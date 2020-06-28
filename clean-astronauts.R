@@ -10,6 +10,6 @@ astronauts <- read_csv("data/astronauts.csv") %>%
     military_civilian = if_else(military_civilian == "Mil", "military", "civilian")
   )
 
-data_frame(variable = names(df)) %>%
-mutate(class = map(df, typeof)) %>% 
+table_md <- tibble(variable = names(astronauts)) %>%
+mutate(class = map(astronauts, typeof)) %>% 
 kable()
