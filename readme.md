@@ -10,4 +10,29 @@ Credit: [Geoegios Karamanis](https://twitter.com/geokaramanis)
 
 ## Data dictionary
 
-|variable                 |class     | |:------------------------|:---------| |id                       |double    | |number                   |double    | |nationwide_number        |double    | |name                     |character | |original_name            |character | |sex                      |character | |year_of_birth            |double    | |nationality              |character | |military_civilian        |character | |selection                |character | |year_of_selection        |double    | |mission_number           |double    | |total_number_of_missions |double    | |occupation               |character | |year_of_mission          |double    | |mission_title            |character | |ascend_shuttle           |character | |in_orbit                 |character | |descend_shuttle          |character | |hours_mission            |double    | |total_hrs_sum            |double    | |field21                  |double    | |eva_hrs_mission          |double    | |total_eva_hrs            |double    |
+|variable                 |class     |
+|:------------------------|:---------|
+|id                       |double    |
+|number                   |double    |
+|nationwide_number        |double    |
+|name                     |character |
+|original_name            |character |
+|sex                      |character |
+|year_of_birth            |double    |
+|nationality              |character |
+|military_civilian        |character |
+|selection                |character |
+|year_of_selection        |double    |
+|mission_number           |double    |
+|total_number_of_missions |double    |
+|occupation               |character |
+|year_of_mission          |double    |
+|mission_title            |character |
+|ascend_shuttle           |character |
+|in_orbit                 |character |
+|descend_shuttle          |character |
+|hours_mission            |double    |
+|total_hrs_sum            |double    |
+|field21                  |double    |
+|eva_hrs_mission          |double    |
+|total_eva_hrs            |double    |
