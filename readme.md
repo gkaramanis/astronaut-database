@@ -6,7 +6,7 @@ This [article](https://www.sciencedirect.com/science/article/abs/pii/S2214552420
 
 This database contains publically available information about all astronauts who participated in space missions before 15 January 2020 collected from NASA, Roscosmos, and fun-made websites. The provided information includes full astronaut name, sex, date of birth, nationality, military status, a title and year of a selection program, and information about each mission completed by a particular astronaut such as a year, ascend and descend shuttle names, mission and extravehicular activity (EVAs) durations.
 
-Credit: [Geoegios Karamanis](https://twitter.com/geokaramanis)
+Credit: [Georgios Karamanis](https://twitter.com/geokaramanis)
 
 ## Data dictionary
 
