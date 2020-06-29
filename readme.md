@@ -10,29 +10,29 @@ Credit: [Geoegios Karamanis](https://twitter.com/geokaramanis)
 
 ## Data dictionary
 
-|variable                 |class     |
-|:------------------------|:---------|
-|id                       |double    |
-|number                   |double    |
-|nationwide_number        |double    |
-|name                     |character |
-|original_name            |character |
-|sex                      |character |
-|year_of_birth            |double    |
-|nationality              |character |
-|military_civilian        |character |
-|selection                |character |
-|year_of_selection        |double    |
-|mission_number           |double    |
-|total_number_of_missions |double    |
-|occupation               |character |
-|year_of_mission          |double    |
-|mission_title            |character |
-|ascend_shuttle           |character |
-|in_orbit                 |character |
-|descend_shuttle          |character |
-|hours_mission            |double    |
-|total_hrs_sum            |double    |
-|field21                  |double    |
-|eva_hrs_mission          |double    |
-|total_eva_hrs            |double    |
+| variable                 | class     | description                                               |
+| :----------------------- | :-------- | --------------------------------------------------------- |
+| id                       | double    |                                                           |
+| number                   | double    |                                                           |
+| nationwide_number        | double    |                                                           |
+| name                     | character | Full  name                                                |
+| original_name            | character | Name in original language                                 |
+| sex                      | character | Sex                                                       |
+| year_of_birth            | double    | Year of birth                                             |
+| nationality              | character | Nationality                                               |
+| military_civilian        | character | Military status                                           |
+| selection                | character | Name of selection program                                 |
+| year_of_selection        | double    | Year of selection program                                 |
+| mission_number           | double    | Mission number                                            |
+| total_number_of_missions | double    | Total number of missions                                  |
+| occupation               | character | Occupation                                                |
+| year_of_mission          | double    | Mission year                                              |
+| mission_title            | character | Mission title                                             |
+| ascend_shuttle           | character | Name of ascent shuttle                                    |
+| in_orbit                 | character |                                                           |
+| descend_shuttle          | character | Name of descent shuttle                                   |
+| hours_mission            | double    | Duration of mission in hours                              |
+| total_hrs_sum            | double    | Total duration of all missions in hours                   |
+| field21                  | double    |                                                           |
+| eva_hrs_mission          | double    | Duration of extravehicular activities  during the mission |
+| total_eva_hrs            | double    | Total duration of all extravehicular activities in hours  |
