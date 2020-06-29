@@ -9,7 +9,3 @@ astronauts <- read_csv("data/astronauts.csv") %>%
     sex = if_else(sex == "M", "male", "female"),
     military_civilian = if_else(military_civilian == "Mil", "military", "civilian")
   )
-
-table_md <- tibble(variable = names(astronauts)) %>%
-mutate(class = map(astronauts, typeof)) %>% 
-kable()
